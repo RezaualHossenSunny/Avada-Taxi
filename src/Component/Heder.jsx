@@ -28,6 +28,18 @@ const Heder = () => {
         <p className='text-center text-white font-popins text-3xl font-semibold mt-10'>for your Business & Personal Needs</p>
         </div>
     </div>
+    <div className='mx-auto max-w-container flex rounded-lg'>
+    <div className='w-1/4'>
+       <div className='py-36 bg-[#EFB317]'>
+        <p className='font-popins text-center text-white text-xl font-medium'>Book online now &</p>
+        <h2 className='font-popins text-white font-semibold text-[50px] text-center'>SAVE</h2>
+        <h1 className='font-popins text-black font-semibold text-center text-[100px]'>10%</h1>
+        <p className='font-popins text-center text-white text-xl font-medium'>On Your Ride</p>
+       </div>     
+    </div>
+    <div className='w-3/4'></div>
+
+    </div>
 </>
   )
 }
